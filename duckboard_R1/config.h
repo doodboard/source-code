@@ -20,8 +20,8 @@
 #include "config_common.h"
 
 /* USB Device descriptor parameter */
-#define VENDOR_ID       0xFEED
-#define PRODUCT_ID      0x6060
+#define VENDOR_ID       0x4442 // doodboard
+#define PRODUCT_ID      0x6462 // duckboard
 #define DEVICE_VER      0x0001
 #define MANUFACTURER    doodboard
 #define PRODUCT         duckboard

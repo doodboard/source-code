@@ -36,8 +36,8 @@
 #define MATRIX_COL_PINS { F7, B1, B3, B2, B6 }
 #define UNUSED_PINS
 
-#define ENCODERS_PAD_A { F5 }
-#define ENCODERS_PAD_B { F6 }
+#define ENCODERS_PAD_A { F6 }
+#define ENCODERS_PAD_B { F5 }
 #define ENCODER_RESOLUTION 2
 
 /* media key slowdown for windows */
